@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/affirmations" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/cupcake" />
+            <option value="$PROJECT_DIR$/dessert_clicker" />
+            <option value="$PROJECT_DIR$/diceroller" />
+            <option value="$PROJECT_DIR$/happybirthday" />
+            <option value="$PROJECT_DIR$/lemonade" />
+            <option value="$PROJECT_DIR$/practice_composearticle" />
+            <option value="$PROJECT_DIR$/replyApp" />
+            <option value="$PROJECT_DIR$/tiptime" />
+            <option value="$PROJECT_DIR$/unscramble" />
+            <option value="$PROJECT_DIR$/woof" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

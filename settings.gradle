@@ -1,0 +1,27 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "EducationApp"
+include ':app'
+include ':happybirthday'
+include ':practice_composearticle'
+include ':diceroller'
+include ':lemonade'
+include ':tiptime'
+include ':affirmations'
+include ':woof'
+include ':dessert_clicker'
+include ':unscramble'
+include ':cupcake'
+include ':replyApp'
